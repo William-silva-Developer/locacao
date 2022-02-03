@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+header{
+    background-color: var(--color-primary);
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.locacao-nav-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+}
+.locacao-nav-content h1 {
+    font-size: 24px;
+    margin: 0;
+    font-weight: 700;
+}
+.locacao-contact-container{
+    display: flex;
+    align-items: center;
+}
+.locacao-contact-link{
+    margin: 0 0 0 10px;
+    font-size: 12px;
+
+}
